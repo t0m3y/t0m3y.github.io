@@ -2238,11 +2238,12 @@
 		}
 
 		table th {
-			color: #e4e4e4;
-			font-size: 0.9em;
-			font-weight: 700;
-			padding: 0 0.75em 0.75em 0.75em;
-			text-align: left;
+	color: #e4e4e4;
+	font-size: 0.9em;
+	font-weight: 700;
+	padding: 0 0.75em 0.75em 0.75em;
+	text-align: left;
+	overflow: auto;
 		}
 
 		table thead {
